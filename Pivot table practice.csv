@@ -1,0 +1,214 @@
+Order ID,Product,Category,Amount,Date,Country
+1,Carrots,Vegetables,4270.00,1/6/2024,United States
+2,Broccoli,Vegetables,8239.00,1/7/2024,United Kingdom
+3,Banana,Fruit,617.00,1/8/2024,United States
+4,Banana,Fruit,8384.00,1/10/2024,Canada
+5,Beans,Vegetables,2626.00,1/10/2024,Germany
+6,Orange,Fruit,3610.00,1/11/2024,United States
+7,Broccoli,Vegetables,9062.00,1/11/2024,Australia
+8,Banana,Fruit,6906.00,1/16/2024,New Zealand
+9,Apple,Fruit,2417.00,1/16/2024,France
+10,Apple,Fruit,7431.00,1/16/2024,Canada
+11,Banana,Fruit,8250.00,1/16/2024,Germany
+12,Broccoli,Vegetables,7012.00,1/18/2024,United States
+13,Carrots,Vegetables,1903.00,1/20/2024,Germany
+14,Broccoli,Vegetables,2824.00,1/22/2024,Canada
+15,Apple,Fruit,6946.00,1/24/2024,France
+16,Banana,Fruit,2320.00,1/27/2024,United Kingdom
+17,Banana,Fruit,2116.00,1/28/2024,United States
+18,Banana,Fruit,1135.00,1/30/2024,United Kingdom
+19,Broccoli,Vegetables,3595.00,1/30/2024,United Kingdom
+20,Apple,Fruit,1161.00,2/2/2024,United States
+21,Orange,Fruit,2256.00,2/4/2024,France
+22,Banana,Fruit,1004.00,2/11/2024,New Zealand
+23,Banana,Fruit,3642.00,2/14/2024,Canada
+24,Banana,Fruit,4582.00,2/17/2024,United States
+25,Beans,Vegetables,3559.00,2/17/2024,United Kingdom
+26,Carrots,Vegetables,5154.00,2/17/2024,Australia
+27,Mango,Fruit,7388.00,2/18/2024,France
+28,Beans,Vegetables,7163.00,2/18/2024,United States
+29,Beans,Vegetables,5101.00,2/20/2024,Germany
+30,Apple,Fruit,7602.00,2/21/2024,France
+31,Mango,Fruit,1641.00,2/22/2024,United States
+32,Apple,Fruit,8892.00,2/23/2024,Australia
+33,Apple,Fruit,2060.00,2/29/2024,France
+34,Broccoli,Vegetables,1557.00,2/29/2024,Germany
+35,Apple,Fruit,6509.00,3/1/2024,France
+36,Apple,Fruit,5718.00,3/4/2024,Australia
+37,Apple,Fruit,7655.00,3/5/2024,United States
+38,Carrots,Vegetables,9116.00,3/5/2024,United Kingdom
+39,Banana,Fruit,2795.00,3/15/2024,United States
+40,Banana,Fruit,5084.00,3/15/2024,United States
+41,Carrots,Vegetables,8941.00,3/15/2024,United Kingdom
+42,Broccoli,Vegetables,5341.00,3/16/2024,France
+43,Banana,Fruit,135.00,3/19/2024,Canada
+44,Banana,Fruit,9400.00,3/19/2024,Australia
+45,Beans,Vegetables,6045.00,3/21/2024,Germany
+46,Apple,Fruit,5820.00,3/22/2024,New Zealand
+47,Orange,Fruit,8887.00,3/23/2024,Germany
+48,Orange,Fruit,6982.00,3/24/2024,United States
+49,Banana,Fruit,4029.00,3/26/2024,Australia
+50,Carrots,Vegetables,3665.00,3/26/2024,Germany
+51,Banana,Fruit,4781.00,3/29/2024,France
+52,Mango,Fruit,3663.00,3/30/2024,Australia
+53,Apple,Fruit,6331.00,4/1/2024,France
+54,Apple,Fruit,4364.00,4/1/2024,Canada
+55,Carrots,Vegetables,607.00,4/3/2024,United Kingdom
+56,Banana,Fruit,1054.00,4/6/2024,New Zealand
+57,Carrots,Vegetables,7659.00,4/6/2024,United States
+58,Broccoli,Vegetables,277.00,4/12/2024,Germany
+59,Banana,Fruit,235.00,4/17/2024,United States
+60,Orange,Fruit,1113.00,4/18/2024,Australia
+61,Apple,Fruit,1128.00,4/21/2024,United States
+62,Broccoli,Vegetables,9231.00,4/22/2024,Canada
+63,Banana,Fruit,4387.00,4/23/2024,United States
+64,Apple,Fruit,2763.00,4/25/2024,Canada
+65,Banana,Fruit,7898.00,4/27/2024,United Kingdom
+66,Banana,Fruit,2427.00,4/30/2024,France
+67,Banana,Fruit,8663.00,5/1/2024,New Zealand
+68,Carrots,Vegetables,2789.00,5/1/2024,Germany
+69,Banana,Fruit,4054.00,5/2/2024,United States
+70,Mango,Fruit,2262.00,5/2/2024,United States
+71,Mango,Fruit,5600.00,5/2/2024,United Kingdom
+72,Banana,Fruit,5787.00,5/3/2024,United States
+73,Orange,Fruit,6295.00,5/3/2024,Canada
+74,Banana,Fruit,474.00,5/5/2024,Germany
+75,Apple,Fruit,4325.00,5/5/2024,France
+76,Banana,Fruit,592.00,5/6/2024,United States
+77,Orange,Fruit,4330.00,5/8/2024,United States
+78,Banana,Fruit,9405.00,5/8/2024,United Kingdom
+79,Apple,Fruit,7671.00,5/8/2024,France
+80,Carrots,Vegetables,5791.00,5/8/2024,United Kingdom
+81,Banana,Fruit,6007.00,5/12/2024,Canada
+82,Banana,Fruit,5030.00,5/14/2024,Germany
+83,Carrots,Vegetables,6763.00,5/14/2024,United Kingdom
+84,Banana,Fruit,4248.00,5/15/2024,Australia
+85,Banana,Fruit,9543.00,5/16/2024,France
+86,Broccoli,Vegetables,2054.00,5/16/2024,United Kingdom
+87,Beans,Vegetables,7094.00,5/16/2024,Germany
+88,Carrots,Vegetables,6087.00,5/18/2024,United States
+89,Apple,Fruit,4264.00,5/19/2024,Australia
+90,Mango,Fruit,9333.00,5/20/2024,United States
+91,Mango,Fruit,8775.00,5/22/2024,Germany
+92,Broccoli,Vegetables,2011.00,5/23/2024,United Kingdom
+93,Banana,Fruit,5632.00,5/25/2024,United States
+94,Banana,Fruit,4904.00,5/25/2024,New Zealand
+95,Beans,Vegetables,1002.00,5/25/2024,Australia
+96,Orange,Fruit,8141.00,5/26/2024,United Kingdom
+97,Orange,Fruit,3644.00,5/26/2024,Canada
+98,Orange,Fruit,1380.00,5/26/2024,Australia
+99,Broccoli,Vegetables,8354.00,5/26/2024,Germany
+100,Banana,Fruit,5182.00,5/27/2024,United States
+101,Apple,Fruit,2193.00,5/27/2024,France
+102,Mango,Fruit,3647.00,5/28/2024,United States
+103,Apple,Fruit,4104.00,5/28/2024,United States
+104,Carrots,Vegetables,7457.00,5/28/2024,United States
+105,Mango,Fruit,3767.00,5/29/2024,Canada
+106,Broccoli,Vegetables,4685.00,5/30/2024,Germany
+107,Banana,Fruit,3917.00,6/4/2024,United States
+108,Apple,Fruit,521.00,6/4/2024,Canada
+109,Apple,Fruit,5605.00,6/10/2024,France
+110,Broccoli,Vegetables,9630.00,6/11/2024,Germany
+111,Banana,Fruit,6941.00,6/20/2024,Canada
+112,Broccoli,Vegetables,7231.00,6/20/2024,United Kingdom
+113,Broccoli,Vegetables,8891.00,6/23/2024,Australia
+114,Banana,Fruit,107.00,6/25/2024,France
+115,Banana,Fruit,4243.00,6/26/2024,United States
+116,Orange,Fruit,4514.00,6/27/2024,United States
+117,Mango,Fruit,5480.00,7/2/2024,United States
+118,Banana,Fruit,5002.00,7/2/2024,France
+119,Banana,Fruit,8530.00,7/5/2024,Canada
+120,Orange,Fruit,4819.00,7/7/2024,New Zealand
+121,Broccoli,Vegetables,6343.00,7/11/2024,United Kingdom
+122,Orange,Fruit,2318.00,7/13/2024,United Kingdom
+123,Orange,Fruit,220.00,7/20/2024,United Kingdom
+124,Orange,Fruit,6341.00,7/20/2024,New Zealand
+125,Apple,Fruit,330.00,7/20/2024,Germany
+126,Broccoli,Vegetables,3027.00,7/20/2024,United Kingdom
+127,Orange,Fruit,850.00,7/22/2024,New Zealand
+128,Banana,Fruit,8986.00,7/23/2024,United Kingdom
+129,Broccoli,Vegetables,3800.00,7/25/2024,United States
+130,Carrots,Vegetables,5751.00,7/28/2024,United Kingdom
+131,Apple,Fruit,1704.00,7/29/2024,United Kingdom
+132,Banana,Fruit,7966.00,7/30/2024,Australia
+133,Banana,Fruit,852.00,7/31/2024,United States
+134,Beans,Vegetables,8416.00,7/31/2024,Australia
+135,Banana,Fruit,7144.00,8/1/2024,France
+136,Broccoli,Vegetables,7854.00,8/1/2024,United States
+137,Orange,Fruit,859.00,8/3/2024,United States
+138,Broccoli,Vegetables,8049.00,8/12/2024,United States
+139,Banana,Fruit,2836.00,8/13/2024,Germany
+140,Carrots,Vegetables,1743.00,8/19/2024,United States
+141,Apple,Fruit,3844.00,8/23/2024,France
+142,Apple,Fruit,7490.00,8/24/2024,France
+143,Broccoli,Vegetables,4483.00,8/25/2024,Germany
+144,Apple,Fruit,7333.00,8/27/2024,Canada
+145,Carrots,Vegetables,7654.00,8/28/2024,United States
+146,Apple,Fruit,3944.00,8/29/2024,United Kingdom
+147,Beans,Vegetables,5761.00,8/29/2024,Germany
+148,Banana,Fruit,6864.00,9/1/2024,New Zealand
+149,Banana,Fruit,4016.00,9/1/2024,Germany
+150,Banana,Fruit,1841.00,9/2/2024,United States
+151,Banana,Fruit,424.00,9/5/2024,Australia
+152,Banana,Fruit,8765.00,9/7/2024,United Kingdom
+153,Banana,Fruit,5583.00,9/8/2024,United States
+154,Broccoli,Vegetables,4390.00,9/9/2024,New Zealand
+155,Broccoli,Vegetables,352.00,9/9/2024,Canada
+156,Apple,Fruit,8489.00,9/11/2024,United States
+157,Banana,Fruit,7090.00,9/11/2024,France
+158,Banana,Fruit,7880.00,9/15/2024,United States
+159,Orange,Fruit,3861.00,9/18/2024,United States
+160,Broccoli,Vegetables,7927.00,9/19/2024,Germany
+161,Banana,Fruit,6162.00,9/20/2024,United States
+162,Mango,Fruit,5523.00,9/25/2024,Australia
+163,Broccoli,Vegetables,5936.00,9/25/2024,United Kingdom
+164,Carrots,Vegetables,7251.00,9/26/2024,Germany
+165,Orange,Fruit,6187.00,9/27/2024,Australia
+166,Banana,Fruit,3210.00,9/29/2024,Germany
+167,Carrots,Vegetables,682.00,9/29/2024,Germany
+168,Banana,Fruit,793.00,10/3/2024,Australia
+169,Carrots,Vegetables,5346.00,10/4/2024,Germany
+170,Banana,Fruit,7103.00,10/7/2024,New Zealand
+171,Carrots,Vegetables,4603.00,10/10/2024,United States
+172,Apple,Fruit,8160.00,10/16/2024,France
+173,Apple,Fruit,7171.00,10/23/2024,United Kingdom
+174,Banana,Fruit,3552.00,10/23/2024,New Zealand
+175,Banana,Fruit,7273.00,10/25/2024,Australia
+176,Banana,Fruit,2402.00,10/26/2024,Germany
+177,Banana,Fruit,1197.00,10/26/2024,Australia
+178,Beans,Vegetables,5015.00,10/26/2024,Australia
+179,Orange,Fruit,5818.00,11/2/2024,United States
+180,Banana,Fruit,4399.00,11/3/2024,United Kingdom
+181,Carrots,Vegetables,3011.00,11/3/2024,United States
+182,Apple,Fruit,4715.00,11/9/2024,United Kingdom
+183,Apple,Fruit,5321.00,11/12/2024,France
+184,Banana,Fruit,8894.00,11/15/2024,United States
+185,Carrots,Vegetables,4846.00,11/25/2024,United Kingdom
+186,Broccoli,Vegetables,284.00,11/25/2024,Germany
+187,Orange,Fruit,8283.00,11/26/2024,United Kingdom
+188,Orange,Fruit,9990.00,11/28/2024,Canada
+189,Banana,Fruit,9014.00,11/28/2024,Australia
+190,Apple,Fruit,1942.00,11/29/2024,France
+191,Banana,Fruit,7223.00,11/30/2024,United States
+192,Carrots,Vegetables,4673.00,12/2/2024,United States
+193,Carrots,Vegetables,9104.00,12/4/2024,France
+194,Apple,Fruit,6078.00,12/5/2024,United States
+195,Beans,Vegetables,3278.00,12/6/2024,Germany
+196,Banana,Fruit,136.00,12/12/2024,Canada
+197,Banana,Fruit,8377.00,12/12/2024,Australia
+198,Banana,Fruit,2382.00,12/12/2024,United States
+199,Banana,Fruit,8702.00,12/15/2024,Germany
+200,Banana,Fruit,5021.00,12/16/2024,United States
+201,Apple,Fruit,1760.00,12/16/2024,Australia
+202,Banana,Fruit,4766.00,12/18/2024,Germany
+203,Beans,Vegetables,1541.00,12/19/2024,United Kingdom
+204,Orange,Fruit,2782.00,12/20/2024,United Kingdom
+205,Apple,Fruit,2455.00,12/20/2024,Canada
+206,Apple,Fruit,4512.00,12/22/2024,New Zealand
+207,Apple,Fruit,8752.00,12/22/2024,Germany
+208,Carrots,Vegetables,9127.00,12/25/2024,United States
+209,Apple,Fruit,1777.00,12/28/2024,France
+210,Beans,Vegetables,680.00,12/28/2024,France
+211,Orange,Fruit,958.00,12/29/2024,United States
+212,Carrots,Vegetables,2613.00,12/29/2024,Australia
+213,Carrots,Vegetables,339.00,12/30/2024,Australia
